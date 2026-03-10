@@ -1,4 +1,4 @@
-# 🍕 RevenueConcentration & Demand Optimization
+# 🍕 Revenue Concentration & Demand Optimization
 
 **SQL + Power BI portfolio project** analyzing **21,350 pizza orders** to identify revenue drivers, demand patterns, and operational insights.
 
