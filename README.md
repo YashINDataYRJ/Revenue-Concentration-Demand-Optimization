@@ -91,7 +91,7 @@
 
 
 - **dashboard/**
-  - `PizzaHut_Sales_Dashboard.pbix`
+  - `PizzaHut_Sales_Dashboard.jpg`
 
 - **docs/**
   - Project Explanation
