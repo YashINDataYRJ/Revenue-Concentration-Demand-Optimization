@@ -1,6 +1,6 @@
 # 🍕 Pizza Hut Sales Analytics
 
-**SQL + Power BI portfolio project** analyzing **21,350 pizza orders (2015)** to identify revenue drivers, demand patterns, and operational insights.
+**SQL + Power BI portfolio project** analyzing **21,350 pizza orders ** to identify revenue drivers, demand patterns, and operational insights.
 
 **Tools:** SQL • MySQL • Power BI  
 **Techniques:** Aggregations • Joins • Subqueries • Window Functions • Star Schema  
